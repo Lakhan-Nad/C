@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['y_568',['y',['../d1/d5e/structobservation.html#ab6be1fa7024b2d5f3a30d6c6b70efdd7',1,'observation::y()'],['../d1/d99/structcluster.html#a10fa7010c12d0f03a422d68321495479',1,'cluster::y()']]]
+  ['x_584',['x',['../d1/d5e/structobservation.html#a04f3dcfd59dd91353395e35c9831fade',1,'observation::x()'],['../d1/d99/structcluster.html#a13278ef636c1d9bd9ce8fad736f4c570',1,'cluster::x()']]]
 ];

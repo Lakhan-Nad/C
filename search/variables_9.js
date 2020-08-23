@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['start_564',['start',['../d9/dd7/struct__cantor__set.html#abd2176c3cc3a1d85d15bbeaace35fa03',1,'_cantor_set']]]
+  ['right_577',['right',['../d5/da1/structnode.html#a51e160f22dc6064bac4a4f9f1d931c2c',1,'node']]],
+  ['rlink_578',['rlink',['../db/d8b/struct_node.html#a0ed3c7305b43527f0f237bbfd438b8f7',1,'Node']]],
+  ['root_579',['root',['../dd/d06/structsegment__tree.html#aa18d7cb422873a807707b26448dce7cd',1,'segment_tree']]]
 ];

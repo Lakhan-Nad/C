@@ -26,6 +26,8 @@ var annotated_dup =
     [ "pid", "d0/d43/structpid.html", "d0/d43/structpid" ],
     [ "queue", "d2/d36/structqueue.html", "d2/d36/structqueue" ],
     [ "QueueRep", "d0/d10/struct_queue_rep.html", "d0/d10/struct_queue_rep" ],
+    [ "Segment", "d2/d49/struct_segment.html", null ],
+    [ "segment_tree", "dd/d06/structsegment__tree.html", "dd/d06/structsegment__tree" ],
     [ "Stack", "dd/d10/struct_stack.html", "dd/d10/struct_stack" ],
     [ "subset", "dc/de5/structsubset.html", "dc/de5/structsubset" ],
     [ "sudoku", "dc/d18/structsudoku.html", "dc/d18/structsudoku" ],
